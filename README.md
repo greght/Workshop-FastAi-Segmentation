@@ -8,10 +8,10 @@ https://docs.google.com/presentation/d/1fNLdRztw5u_k1JzTPfLYPUnqTbRiN_5wCrE9fL_t
 
 ### Colab notebook link:
 
-Fill-in-the-blank notebook:
+- Fill-in-the-blank notebook:
 
-https://colab.research.google.com/github/greght/Workshop-FastAi-Segmentation/blob/main/Fill_in_the_Blank_ImageSegmentation_fastAI_v1.ipynb
+  https://colab.research.google.com/github/greght/Workshop-FastAi-Segmentation/blob/main/Fill_in_the_Blank_ImageSegmentation_fastAI_v1.ipynb
 
-Complete notebook:
+- Complete notebook:
 
-https://colab.research.google.com/github/greght/Workshop-FastAi-Segmentation/blob/main/ImageSegmentation_fastAI_v1.ipynb
+  https://colab.research.google.com/github/greght/Workshop-FastAi-Segmentation/blob/main/ImageSegmentation_fastAI_v1.ipynb
