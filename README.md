@@ -6,7 +6,7 @@ Slides and Colab notebook for the CSCAR workshop on how to use fast.ai to perfor
 
 https://docs.google.com/presentation/d/1fNLdRztw5u_k1JzTPfLYPUnqTbRiN_5wCrE9fL_t3BQ/edit?usp=sharing
 
-### Colab notebook link:
+### Colab notebook links:
 
 - Fill-in-the-blank notebook:
 
